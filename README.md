@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![min-guni GitHub stats](https://github-readme-stats.vercel.app/api?username=min-guni&show_icons=true&theme=onedark)
 <!--
 **min-guni/min-guni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
