@@ -1,7 +1,11 @@
 ## Hi there 👋
 ![min-guni GitHub stats](https://github-readme-stats.vercel.app/api?username=min-guni&show_icons=true&theme=onedark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minguni)](https://solved.ac/minguni)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-guni&theme=onedark)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minguni)](https://solved.ac/minguni)
 <!--
 **min-guni/min-guni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
