@@ -1,6 +1,5 @@
 ## Hi there 👋
-### Stack : <img src="https://img.shields.io/badge/Spring-E0234E?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/nestjs-6DB33F?style=for-the-badge&logo=nestjs&logoColor=white">
+### Stack : <img src="https://img.shields.io/badge/Spring-6DB33?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
 
 ![min-guni GitHub stats](https://github-readme-stats.vercel.app/api?username=min-guni&show_icons=true&theme=onedark)
